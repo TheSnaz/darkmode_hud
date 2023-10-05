@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$baseTexture "custom/darkmode_hud/materials/hud/obj_lock"
+	$translucent 1
+}
