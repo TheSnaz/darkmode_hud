@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$baseTexture" "hud\objectives_flagpanel_compass_red"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	$softedges 1
+	$edgesoftnessstart 0.45
+    $edgesoftnessend 0.3
+	$scaleedgesoftnessbasedonscreenres 1
+
+}
+
