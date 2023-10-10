@@ -1,0 +1,36 @@
+"UnlitGeneric"
+{
+	"<dx90"
+	{
+	
+	}
+	
+	"$translucent" 1
+	"$baseTexture" "hud\gradient_red_dom"
+	"$detail" "hud\dom_area_mask"
+	$detailscale 1
+	$detailblendmode 8
+	$distancealphafromdetail 1
+
+	// give it a slight outer soft edge
+	$softedges 1
+	$edgesoftnessstart 0.5
+    $edgesoftnessend 0.4
+	$scaleedgesoftnessbasedonscreenres 1
+
+	// give it a white outline
+	$outline 1
+	$outlinecolor "[1 0 0]"
+	$outlinestart0 0.4
+	$outlinestart1 0.55
+	$outlineend0 0.55
+	$outlineend1 0.7
+	$scaleoutlinesoftnessbasedonscreenres 1
+
+//	"$vertexcolor" 1
+	$distancealpha 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+}
+

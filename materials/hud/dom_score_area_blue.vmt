@@ -1,0 +1,10 @@
+"Patch"
+{
+	include "materials/hud/dom_score_area_red.vmt"
+	
+	insert
+	{
+	$outlinecolor "[0.05 0.55 1]"
+	}
+}
+
